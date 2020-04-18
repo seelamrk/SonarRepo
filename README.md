@@ -1,1 +1,1 @@
-# SonarRepo
+# Sonar-repo
